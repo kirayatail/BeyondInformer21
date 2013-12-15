@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<controlP5 colorLabel="ffffffff" colorValue="ffffffff" colorForeground="ff00698c" date="Wed Nov 27 17:19:54 CET 2013" colorBackground="ff003652" colorActive="ff08a2cf" lock="false" filepath="controlP5.xml" urlpath="">
+<window height="1015" name="main" background="00000000" width="1660" class="BeyondInformer21">
+<tab name="global" width="40" id="-1" visible="1.0" open="1.0" label="global" moveable="0.0"/>
+<tab name="default" width="45" id="-1" visible="1.0" open="1.0" label="default" moveable="0.0"/>
+</window>
+<window x="10" height="340" name="controlWindow" background="ff000000" width="550" class="controlP5.PAppletWindow" y="10">
+<tab name="global" width="40" id="-1" visible="1.0" open="1.0" label="global" moveable="0.0"/>
+<tab name="default" width="45" id="-1" visible="1.0" open="1.0" label="default" moveable="0.0">
+<controller name="angleX" id="-1" width="400" visible="1.0" min="1.0" type="slider" max="2.0" y="21.0" label="angleX" x="40.0" value="1.64" height="10" moveable="1.0"/>
+<controller name="angleY" id="-1" width="400" visible="1.0" min="-0.1" type="slider" max="0.1" y="40.0" label="angleY" x="40.0" value="0.060500003" height="10" moveable="1.0"/>
+<controller name="angleZ" id="-1" width="400" visible="1.0" min="2.1415927" type="slider" max="4.141593" y="60.0" label="angleZ" x="41.0" value="3.1465929" height="10" moveable="1.0"/>
+<controller name="moveX" id="-1" width="400" visible="1.0" min="-0.3" type="slider" max="1.7" y="80.0" label="moveX" x="40.0" value="0.965" height="10" moveable="1.0"/>
+<controller name="moveY" id="-1" width="400" visible="1.0" min="0.4" type="slider" max="0.7" y="99.0" label="moveY" x="39.0" value="0.65425" height="10" moveable="1.0"/>
+<controller name="moveZ" id="-1" width="400" visible="1.0" min="1.0" type="slider" max="3.5" y="120.0" label="moveZ" x="40.0" value="3.1000001" height="10" moveable="1.0"/>
+<controller name="lightAngle" id="-1" width="400" visible="1.0" min="-3.1415927" type="slider" max="3.1415927" y="140.0" label="lightAngle" x="40.0" value="1.460841" height="10" moveable="1.0"/>
+<controller name="flowAngle" id="-1" width="400" visible="1.0" min="-3.1415927" type="slider" max="3.1415927" y="160.0" label="flowAngle" x="40.0" value="0.15" height="10" moveable="1.0"/>
+<controller name="camCorrectionX" id="-1" width="400" visible="1.0" min="-0.2" type="slider" max="0.2" y="180.0" label="camCorrectionX" x="40.0" value="-0.008000001" height="10" moveable="1.0"/>
+<controller name="camCorrectionY" id="-1" width="400" visible="1.0" min="-0.2" type="slider" max="0.2" y="200.0" label="camCorrectionY" x="40.0" value="-0.0069999993" height="10" moveable="1.0"/>
+<controller name="camMoveX" id="-1" width="400" visible="1.0" min="-1.1" type="slider" max="1.1" y="220.0" label="camMoveX" x="40.0" value="-0.20900005" height="10" moveable="1.0"/>
+<controller name="camMoveY" id="-1" width="400" visible="1.0" min="-1.0" type="slider" max="1.0" y="240.0" label="camMoveY" x="40.0" value="0.014999986" height="10" moveable="1.0"/>
+<controller name="camMoveZ" id="-1" width="400" visible="1.0" min="2.0" type="slider" max="4.0" y="260.0" label="camMoveZ" x="40.0" value="3.115" height="10" moveable="1.0"/>
+<controller name="heightCut" id="-1" width="400" visible="1.0" min="-0.3" type="slider" max="0.3" y="280.0" label="heightCut" x="40.0" value="0.07499999" height="10" moveable="1.0"/>
+<controller name="cams" id="-1" width="10" visible="1.0" type="button" y="300.0" label="cams" x="40.0" value="0.0" height="10" moveable="1.0"/>
+<controller name="cams" id="-1" width="10" visible="1.0" type="button" y="300.0" label="cams" x="60.0" value="1.0" height="10" moveable="1.0"/>
+<controller name="cams" id="-1" width="10" visible="1.0" type="button" y="299.0" label="cams" x="83.0" value="2.0" height="10" moveable="1.0"/>
+<controller name="showAll" id="-1" width="40" visible="1.0" type="toggle" y="0.0" label="showAll" x="1.0" value="0.0" height="10" moveable="1.0"/>
+</tab>
+</window>
+</controlP5>
+
